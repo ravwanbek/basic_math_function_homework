@@ -7,8 +7,8 @@
 # Output: pi
 from math import pi
 def main(a):
-    
-    return a
+    a=pi
+    return pi
 a=pi
 x=main(a)
 print(x)
