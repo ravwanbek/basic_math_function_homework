@@ -5,3 +5,11 @@
 # Example:
 # Input: a = 3 b = 2
 # Output: 5
+
+def main(a,b):
+    return a+b
+
+a=26
+b=4    
+x=main(a,b)
+print(x)
