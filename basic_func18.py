@@ -10,7 +10,8 @@
 from math import pi
 def main(a):
     a=pi
-    return pi
+    return round(a,2)
 a=pi
+x=main(a)
 
-print(round(pi,2))
+print(x)
