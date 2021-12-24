@@ -8,12 +8,10 @@
 # Output: 3.14
 
 from math import pi
-
-
 def main(a):
     a=pi
     return pi
 a=pi
 x=main(a)
-x=round(a,2)
-print(x)
+
+print(round(x,2))
