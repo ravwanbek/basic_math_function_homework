@@ -6,3 +6,13 @@
 # Example:
 # Input: a = pi
 # Output: 3.14
+
+from math import pi
+
+
+def main(a):
+    return a
+a=pi
+x=main(a)
+x=round(a,2)
+print(x)
