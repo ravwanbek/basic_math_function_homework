@@ -11,6 +11,7 @@ from math import pi
 
 
 def main(a):
+    a=pi
     return a
 a=pi
 x=main(a)
